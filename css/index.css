@@ -181,4 +181,23 @@ img {
   .header-button__text {
     font-size: 26px;
   }
+}
+
+.thank-you {
+  padding-top: 100px;
+}
+
+.thank-you__title {
+  font-family: HYPERGOALS;
+  font-size: 135px;
+  line-height: 0.8;
+  color: var(--green);
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.thank-you__subtitle {
+  font-size: 24px;
+  color: var(--white);
+  text-align: center;
 }/*# sourceMappingURL=index.css.map */
